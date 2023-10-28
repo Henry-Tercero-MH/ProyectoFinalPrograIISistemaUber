@@ -1,0 +1,3 @@
+Henry45@gmail.com, el palmar, san felipe, 25,00, 75,00
+Henry45@gmail.com, guatemala, almolonga, 50,00, 300,00
+Henry45@gmail.com, el palmar, retalhuleu, 30,00, 180,00

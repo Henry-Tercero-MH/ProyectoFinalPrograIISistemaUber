@@ -1,0 +1,10 @@
+Lucas,Nissan ,XXS-21452,Azul,4.4
+Juan Rerimas,Nissan ,XXS-21452,Azul,4.4
+Pablo Rerimas,Nissan ,XXS-21452,Azul,4.4
+Luis Rerimas,Nissan ,XXS-21452,Azul,4.4
+Jose Rerimas,Nissan ,XXS-21452,Azul,4.4
+Juan Rerimas,Nissan ,XXS-21452,Azul,4.4
+Milton Rerimas,Nissan ,XXS-21452,Azul,4.4
+Juan Rerimas,Nissan ,XXS-21452,Azul,4.4
+Pedro,Toyota,XXA-21450,Blanco,2.6
+Henry Misael,Toyota Corrolla,XBV-25801,Rojo,1.8
